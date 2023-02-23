@@ -4,7 +4,7 @@
 ### Client side
 
 
-Window Preview
+This is the window Preview
 
 
 ![previewc](pics/ezpreview.gif)
