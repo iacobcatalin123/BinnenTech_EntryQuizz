@@ -9,7 +9,7 @@ This is the window Preview
 
 ![previewc](pics/ezpreview.gif)
 
-Client overview
+Client  overview
 
 ![overview](pics/overvieew.png)
 
